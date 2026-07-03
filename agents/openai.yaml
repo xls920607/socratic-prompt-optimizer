@@ -1,0 +1,4 @@
+interface:
+  display_name: "Socratic Prompt Optimizer"
+  short_description: "Turn direct prompts into Socratic question chains"
+  default_prompt: "Use $socratic-prompt-optimizer to improve this raw prompt with a concise Socratic question-chain structure."
